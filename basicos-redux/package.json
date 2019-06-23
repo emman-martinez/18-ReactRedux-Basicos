@@ -1,0 +1,22 @@
+{
+  "name": "basicos-redux",
+  "version": "1.0.0",
+  "description": "Aprendiendo Redux",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Emasesosos/18-ReactRedux-Basicos.git"
+  },
+  "author": "Emmanuel Martínez",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Emasesosos/18-ReactRedux-Basicos/issues"
+  },
+  "homepage": "https://github.com/Emasesosos/18-ReactRedux-Basicos#readme",
+  "devDependencies": {
+    "redux": "^4.0.1"
+  }
+}
